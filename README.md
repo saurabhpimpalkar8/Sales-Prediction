@@ -46,3 +46,10 @@ As this will be of Classification between High potential and Low potential, we w
 You can also go for KNN, SVM, XGboost techniques
 
 At the end we will apply Hyperparameter Tunning to increase the accuracy of model and at final stage we will come to conclusion
+
+### Conclusion:
+
+1. The customers belonging to that location must be aware of trending products and supplies hence have to arrange promotional campaign.
+2. The Agents must have training sessions according to their progress report to improve their convincing skills
+3. Agents have to be given a region of sale according to their languages known so that customers feels them as a familiar person
+4. Delivery mode must be quick and fast as the customer feels trust and faith on the company service.
