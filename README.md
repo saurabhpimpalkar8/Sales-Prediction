@@ -47,6 +47,12 @@ You can also go for KNN, SVM, XGboost techniques
 
 At the end we will apply Hyperparameter Tunning to increase the accuracy of model and at final stage we will come to conclusion
 
+
+We got accuracy-
+1. Logistic Regression : 64.49%
+2. Decision Tree : 69.42%
+3. Random Forest : 65.33%
+
 ### Conclusion:
 
 1. The customers belonging to that location must be aware of trending products and supplies hence have to arrange promotional campaign.
